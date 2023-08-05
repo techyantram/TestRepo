@@ -1,0 +1,31 @@
+*{
+    margin: 0; padding: 0;
+}
+
+.main{
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 15%;
+    margin: 100px auto;
+    padding: 25px;
+}
+
+.main div input{
+    height: 35px;
+    width: 35px;
+    margin-right: 12px;
+    margin-bottom: 5px;
+}
+
+#inputbox{
+    width: 90%;
+    margin: 10px 0px;
+    padding: 10px 5px 10px 9px;
+    border-radius: 5px;
+    outline: none;
+}
+
+.temp input,button{
+    width: 42% !important;
+    height: 30px !important;
+}
